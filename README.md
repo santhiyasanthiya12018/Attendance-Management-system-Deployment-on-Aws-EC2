@@ -59,6 +59,7 @@ The deployment includes launching and configuring an EC2 instance, setting up th
 The deployment uses AWS Security Groups and controlled access permissions to protect the server environment and ensure secure application access.
 
 *Use Cases:*
+
 •	Educational institutions 
 
 •	Employee attendance cracking
