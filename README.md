@@ -37,6 +37,7 @@ The deployment includes launching and configuring an EC2 instance, setting up th
 •	Linux Server Configurations
  
 *Deployment Work flow:*
+
 1.	Launch an EC2 instance 
 
 2.	Configure inbound security group Roles
@@ -54,6 +55,7 @@ The deployment includes launching and configuring an EC2 instance, setting up th
 8.	Access application through public EC2 endpoint 
 
 *Security Benefit:*
+
 The deployment uses AWS Security Groups and controlled access permissions to protect the server environment and ensure secure application access.
 
 *Use Cases:*
